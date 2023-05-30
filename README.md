@@ -204,22 +204,14 @@ Name Helpdesk
 <br />
 
 <p>
-
-![thisismyimage]()
-</p>
-<p>
-
--   Browse to your help desk login page: http://localhost/osTicket/scp/login.php
-</p>
-<br />
-
-<p>
    
 ![thisismyimage]()
 </p>
 <p>
 
--   Osticket has now been successfully deployed, congratulations.
+-    Delete: C:\inetpub\wwwroot\osTicket\setup
+-    Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
 </p>
 <br />
 
@@ -229,7 +221,8 @@ Name Helpdesk
 </p>
 <p>
 
--   Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+-    Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+-    End User login: http://localhost/osTicket/ 
 </p>
 <br />
 
@@ -239,9 +232,8 @@ Name Helpdesk
 </p>
 <p>
 
--   Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+-     Osticket has now been successfully deployed, congratulations
+   -  The End.
 </p>
 <br />
-
-
 
