@@ -9,10 +9,12 @@ This project outlines the prerequisites and installation of the open-source help
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Remote Desktop
+- Internet Information Services (IIS)
 - PHP Manager
 - OsTicket
 - MySQL
+- HeidiSQL
 
 <h2>Operating Systems Used </h2>
 
@@ -20,11 +22,9 @@ This project outlines the prerequisites and installation of the open-source help
 
 <h2>List of Prerequisites</h2>
 
-- Internet Information Services
-- web platform
-- MySQL
-- WireShark
-- osTicket
+- Azure Resource Group
+- Azure Virtual Machine
+- Virtual Network
 
 <h2>Installation Steps</h2>
 
@@ -42,7 +42,8 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
@@ -51,7 +52,8 @@ This project outlines the prerequisites and installation of the open-source help
    -  Username: labuser (for example/whatever you chose)
    -  Password: osTicketPassword1! (for example/whatever you chose)
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
@@ -67,7 +69,8 @@ This project outlines the prerequisites and installation of the open-source help
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
@@ -81,7 +84,8 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
@@ -92,7 +96,8 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
@@ -104,7 +109,8 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
@@ -115,11 +121,12 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
--  Note that some extensions are not enabled
+-  Observe some of the extensions are not enabled
    -  Go back to IIS, sites -> Default -> osTicket
    -  Double-click PHP Manager
    -  Click “Enable or disable an extension”
@@ -128,10 +135,27 @@ This project outlines the prerequisites and installation of the open-source help
    -  Enable: php_opcache.dll
    -  Refresh the osTicket site in your browse, observe the changes
 
+</p>
+<br />
+
+<p>
+   
+![thisismyimage]()
+</p>
+<p>
+   
 -  Rename: ost-config.php
    -  From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
    -  To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+<br />
 
+<p>
+   
+![thisismyimage]()
+</p>
+<p>
+   
 -  Assign Permissions: ost-config.php
    -  Disable inheritance -> Remove All
    -  New Permissions -> Everyone -> All
@@ -140,7 +164,7 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![thisismyimage]()
 </p>
 <p>
 
