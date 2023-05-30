@@ -29,7 +29,8 @@ This project outlines the prerequisites and installation of the open-source help
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![thisismyimage]
 </p>
 <p>
 
