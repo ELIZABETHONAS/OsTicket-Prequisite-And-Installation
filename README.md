@@ -49,7 +49,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 -  Create an Azure Virtual Machine Windows 10, 4 vCPUs
    -  Name: Vm-osticket
-   -  Username: labuser (for example/whatever you chose)
+   -  Username: labuser09 (for example/whatever you chose)
    -  Password: osTicketPassword1! (for example/whatever you chose)
 <p>
    
