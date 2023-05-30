@@ -57,7 +57,7 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <p>
 
--  Install / Enable the following files as a prequisite for osTicket 
+-  Install and download and Enable the following files as a prequisite for this project: 
    -  IIS in Windows WITH CGI
    -  World Wide Web Services -> Application Development Features -> [X] CGI
    -  PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
@@ -164,46 +164,84 @@ This project outlines the prerequisites and installation of the open-source help
 <br />
 
 <p>
+   
 ![thisismyimage]()
 </p>
 <p>
 
+-  Continue Setting up osTicket in the browser (click Continue)
+Name Helpdesk
+   -  Default email (receives email from customers)
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
+-  Open Heidi SQL
+   -  Create a new session, root/Password1
+   -  Connect to the session
+   -  Create a database called “osTicket”
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
-
+-  MySQL Database: osTicket
+   -  MySQL Username: root
+   -  MySQL Password: Password1
+   -  Click “Install Now!”
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![thisismyimage]()
 </p>
 <p>
 
-
+-   Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+![thisismyimage]()
 </p>
 <p>
 
-
+-   Osticket has now been successfully deployed, congratulations.
 </p>
 <br />
+
+<p>
+
+![thisismyimage]()
+</p>
+<p>
+
+-   Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+</p>
+<br />
+
+<p>
+
+![thisismyimage]()
+</p>
+<p>
+
+-   Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+</p>
+<br />
+
+
+
