@@ -30,7 +30,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
 
-![thisismyimage]
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/1.png)
 </p>
 <p>
 
