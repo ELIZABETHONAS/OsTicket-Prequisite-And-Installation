@@ -48,7 +48,7 @@ This project outlines the prerequisites and installation of the open-source help
 <p>
 
 -  Create an Azure Virtual Machine Windows 10, 4 vCPUs
-   -  Name: Vm-osticket
+   -  Name: OSTCKT
    -  Username: labuser09 (for example/whatever you chose)
    -  Password: osTicketPassword1! (for example/whatever you chose)
 <p>
@@ -57,7 +57,7 @@ This project outlines the prerequisites and installation of the open-source help
 </p>
 <p>
 
--  Install and download and Enable the following files as a prequisite for this project: 
+-  Install and download the following files as a prequisite for this project: 
    -  IIS in Windows WITH CGI
    -  World Wide Web Services -> Application Development Features -> [X] CGI
    -  PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
@@ -232,7 +232,7 @@ Name Helpdesk
 </p>
 <p>
 
--     Osticket has now been successfully deployed, congratulations
+-   Osticket has now been successfully deployed, congratulations
    -  The End.
 </p>
 <br />
