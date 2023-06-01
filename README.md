@@ -43,17 +43,17 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/2.png?raw=true)
 </p>
 <p>
 
 -  Create an Azure Virtual Machine Windows 10, 4 vCPUs
-   -  Name: OSTCKT
+   -  Name: VMOSTICKET
    -  Username: labuser09 (for example/whatever you chose)
    -  Password: osTicketPassword1! (for example/whatever you chose)
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/3.png?raw=true)
 </p>
 <p>
 
@@ -70,7 +70,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/4.png?raw=true)
 </p>
 <p>
 
@@ -85,7 +85,8 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/5.png?raw=true)
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/6.png?raw=true)   
 </p>
 <p>
 
@@ -97,7 +98,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/7.png?raw=true)
 </p>
 <p>
 
@@ -110,7 +111,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/8.png?raw=true)
 </p>
 <p>
 
