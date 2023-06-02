@@ -148,15 +148,7 @@ This project outlines the prerequisites and installation of the open-source help
 -  Rename: ost-config.php
    -  From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
    -  To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-</p>
-<br />
 
-<p>
-   
-![thisismyimage]()
-</p>
-<p>
-   
 -  Assign Permissions: ost-config.php
    -  Disable inheritance -> Remove All
    -  New Permissions -> Everyone -> All
@@ -171,7 +163,7 @@ This project outlines the prerequisites and installation of the open-source help
 <p>
 
 -  Continue Setting up osTicket in the browser (click Continue)
-Name Helpdesk
+   Name Helpdesk
    -  Default email (receives email from customers)
 
 </p>
@@ -188,19 +180,12 @@ Name Helpdesk
    -  Connect to the session
    -  Create a database called “osTicket”
 
-</p>
-<br />
-
-<p>
-   
-![thisismyimage]()
-</p>
-<p>
 
 -  MySQL Database: osTicket
    -  MySQL Username: root
    -  MySQL Password: Password1
    -  Click “Install Now!”
+   
 </p>
 <br />
 
