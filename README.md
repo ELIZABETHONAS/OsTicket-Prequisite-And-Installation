@@ -123,7 +123,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0032.png)
 </p>
 <p>
 
@@ -141,7 +141,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0036.png)
 </p>
 <p>
    
@@ -158,7 +158,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0035.png)
 </p>
 <p>
 
@@ -171,7 +171,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0041.png)
 </p>
 <p>
 
@@ -180,30 +180,19 @@ This project outlines the prerequisites and installation of the open-source help
    -  Connect to the session
    -  Create a database called “osTicket”
 
-
 -  MySQL Database: osTicket
    -  MySQL Username: root
    -  MySQL Password: Password1
    -  Click “Install Now!”
    
-</p>
-<br />
-
-<p>
-   
-![thisismyimage]()
-</p>
-<p>
-
 -    Delete: C:\inetpub\wwwroot\osTicket\setup
--    Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
+-    Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php  
 </p>
 <br />
 
 <p>
 
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0038.png)
 </p>
 <p>
 
@@ -214,7 +203,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
 
-![thisismyimage]()
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0037.png)
 </p>
 <p>
 
