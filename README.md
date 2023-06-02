@@ -141,7 +141,7 @@ This project outlines the prerequisites and installation of the open-source help
 
 <p>
    
-![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0036.png)
+![thisismyimage](https://github.com/ELIZABETHONAS/OsTicket-Prequisite-And-Installation/blob/main/IMG_0039.png)
 </p>
 <p>
    
